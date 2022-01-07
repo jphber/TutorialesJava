@@ -1,4 +1,10 @@
-TutorialesJava
+JAVA Tutorials by applikdos
 ==============
 
-Código fuente de programas en Java
+Different topics and examples using JAVA:
+
+- Objects and constructors
+- Java Swing (JFrame, JButton)
+- Events (ActionEvent, ActionListener)
+- Java Beans
+- IO Streams (InputStreamReader, BufferedReader, PrintStream)
